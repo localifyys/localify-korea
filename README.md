@@ -1,1 +1,1 @@
-# localify-korea
+로컬리파이
