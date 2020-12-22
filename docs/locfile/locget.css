@@ -1,0 +1,142 @@
+.gIzNJa
+{
+	-webkit-tap-highlight-color: rgb(0, 0, 0);
+    color: rgb(24, 24, 24);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    background-color: rgb(25, 230, 140);
+    padding: 40px 15px 104px;
+	}
+.bTtdpM
+	{
+		    -webkit-tap-highlight-color: rgb(0, 0, 0);
+    color: rgb(24, 24, 24);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    margin: 0px auto;
+    max-width: 1170px;
+	}
+	
+.cRvBMw
+	{
+		    -webkit-tap-highlight-color: rgb(0, 0, 0);
+    color: rgb(24, 24, 24);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+	}
+.jzgPsp	
+	{
+		-webkit-tap-highlight-color: rgb(0, 0, 0);
+    color: rgb(24, 24, 24);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    margin: 25px 15px 15px;
+    max-width: 250px;
+    width: 136px;
+    margin-bottom: 40px;
+    margin-top: 64px;
+	}
+	
+.cxzqrt
+	{    
+	-webkit-tap-highlight-color: rgb(0, 0, 0);
+    color: rgb(24, 24, 24);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    vertical-align: middle;
+    width: 100%;}
+	
+.bQopJE
+		{   
+		-webkit-tap-highlight-color: rgb(0, 0, 0);
+    color: rgb(24, 24, 24);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    vertical-align: middle;
+    position: absolute;
+    width: 25%;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: 0.6s ease 0s 1 normal forwards running lbWRkT;}
+			
+.hsmtuh
+			{    -webkit-tap-highlight-color: rgb(0, 0, 0);
+    color: rgb(24, 24, 24);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    vertical-align: middle;
+    position: absolute;
+    width: 8%;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    animation: 0.3s ease 0.9s 1 normal forwards running dWurqy;}
+	
+	.dOGcmR
+	{    -webkit-tap-highlight-color: rgb(0, 0, 0);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    display: block;
+    margin: 0px;
+    padding: 0px 0px 1em;
+    font-weight: 900;
+    letter-spacing: -1px;
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    line-height: 56px;
+    padding-bottom: 24px;}
+	
+	
+	.dJxlpJ
+	{    -webkit-tap-highlight-color: rgb(0, 0, 0);
+    color: rgb(24, 24, 24);
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    display: block;
+    margin: 0px;
+    padding: 0px 0px 1em;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    margin-bottom: 24px;}
+	
+	.jKwTwi
+	{    -webkit-tap-highlight-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    font-family: inherit;
+    border: 0px;
+    border-radius: 500px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 1;
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    transition-duration: 33ms;
+    transition-property: background-color, border-color, color, box-shadow, filter, transform;
+    user-select: none;
+    vertical-align: middle;
+    transform: translate3d(0px, 0px, 0px);
+    padding: 17px 48px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;}
